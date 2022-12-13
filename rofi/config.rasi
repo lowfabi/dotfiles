@@ -1,0 +1,13 @@
+@theme "/usr/share/rofi/themes/solarized.rasi"
+#element.normal.normal {
+   //background-color: #d6acff;
+   //text-color: #ffffff;
+}
+
+#element.alternate.normal {
+   //background-color: #bd93f9;
+   //text-color: #ffffff;
+}
+*{
+	//selected-normal-foreground:  rgba ( 249, 249, 249, 100 % );
+}
